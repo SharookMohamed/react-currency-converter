@@ -1,5 +1,7 @@
 # Currency Converter
 
+![](https://github.com/simranlotey/react-currency-converter/blob/master/src/components/Images/demo-2.png)
+![](https://github.com/simranlotey/react-currency-converter/blob/master/src/components/Images/demo-1.png)
 
 ![](https://github.com/SharookMohamed/react-currency-converter/blob/master/Screenshot(68).png)
 ![](https://github.com/SharookMohamed/react-currency-converter/blob/master/Screenshot(67).png)
